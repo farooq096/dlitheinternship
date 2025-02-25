@@ -131,7 +131,7 @@ a.append("roshan")
 a.sort()
 print(a)
 
-'''
+
 
 hob=["code","sleeping","walk","bike ride"]
 hob.insert(0,"coding")
@@ -142,5 +142,5 @@ print(hob)
 hob.pop(3)
 print(hob)
 
-
+'''
 
